@@ -1,0 +1,10 @@
+Name your file...
+
+requirements.txt
+
+
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
